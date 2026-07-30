@@ -1,8 +1,30 @@
 aid: armadin
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/armadin.png
 name: Armadin
-description: 'Armadin is a company surfaced as a portfolio company of kleiner-perkins and added to the
-  API Evangelist network as a stub for enrichment. Sector: security. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Armadin is an AI-native cybersecurity company building the "Ultimate Attacker" —
+  an autonomous, agentic offensive security platform that continuously identifies,
+  proves, and prioritizes exploitable risk across enterprise attack surfaces.
+  Founded in 2025 and launched publicly in March 2026, Armadin is headquartered in
+  San Francisco and was co-founded by Kevin Mandia (founder of Mandiant, former
+  FireEye CEO) alongside former Mandiant and Google Cloud Security leaders. The
+  company pairs agentic AI "attacker swarms" with elite human red teamers to deliver
+  continuous, 24/7 red teaming and prioritized remediation, framed as a response to
+  AI-driven machine-speed "Hyperattacks." Armadin raised $189.9M in combined Seed and
+  Series A funding led by Accel, with Google Ventures, Kleiner Perkins, Menlo Ventures,
+  8VC, Ballistic Ventures, and In-Q-Tel participating. It is currently a security
+  services and platform company with no public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/armadin/refs/heads/main/apis.yml
 x-type: company
 x-source: kleiner-perkins-portfolio
@@ -10,13 +32,46 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Security
+- Cybersecurity
+- Offensive Security
+- Red Teaming
+- Artificial Intelligence
+- Agentic AI
+- Penetration Testing
+- Attack Surface Management
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/armadin-domain-security.yml
+- type: Website
+  url: https://www.armadin.com
+- type: Portal
+  url: https://www.armadin.com
+- type: Blog
+  url: https://www.armadin.com/blog-posts
+- type: TrustCenter
+  url: https://trust.armadin.com/
+- type: Support
+  url: https://www.armadin.com/contact
+- type: LinkedIn
+  url: https://www.linkedin.com/company/armadin
+- type: LLMsTxt
+  url: llms/armadin-llms.txt
+- type: About
+  url: https://www.armadin.com/company
+- type: Resources
+  url: https://www.armadin.com/resources
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
