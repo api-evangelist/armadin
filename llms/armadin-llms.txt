@@ -1,0 +1,72 @@
+# Armadin
+
+> Armadin is an AI-native cybersecurity company building the "Ultimate Attacker" — an autonomous, agentic offensive security platform that continuously identifies, proves, and prioritizes exploitable risk across enterprise attack surfaces. Founded in 2025 and launched publicly in March 2026, Armadin is headquartered in San Francisco, CA, with approximately 60 employees.
+
+Armadin's core thesis: as AI-powered "Hyperattacks" — sophisticated, machine-speed, multi-modal cyberattacks — become the new norm, traditional human-led defenses are no longer sufficient. Armadin answers this with an intelligent fleet of AI agents and elite human red teamers who find all attack paths, all the time.
+
+The company has raised $189.9M in combined Seed and Series A funding (the largest such combined round in cybersecurity history), led by Accel, with participation from Google Ventures, Kleiner Perkins, Menlo Ventures, 8VC, Ballistic Ventures, and In-Q-Tel (the CIA's venture arm).
+
+## Core Pages
+
+- [Home](https://www.armadin.com/): Overview of Armadin's mission, platform, and approach to AI-era cybersecurity. Tagline: "Where unmatched human ingenuity meets the limitless scale of agentic AI powered cybersecurity."
+- [Platform](https://www.armadin.com/platform): The industry's first continuous, agentic red teaming and remediation platform. Combines AI-powered attacker swarms with human expert oversight to detect and validate exploitable vulnerabilities, then provide prioritized remediation guidance. Covers the entire attack surface, 24/7.
+- [Company](https://www.armadin.com/company): Background on Armadin's founding team, mission, and culture. Built by elite red team specialists and AI researchers dedicated to Western cybersecurity superiority.
+- [Resources](https://www.armadin.com/resources): Library of AI-driven pentesting guides, whitepapers, and autonomous red teaming research.
+- [Trust Center](https://trust.armadin.com/): Security and compliance information. Armadin provides a continuous offensive security platform that identifies and proves exploitable risk across the entire attack surface.
+- [Careers](https://www.armadin.com/careers): Open roles at Armadin.
+- [Contact](https://www.armadin.com/contact): Get in touch or request a demo.
+
+## Platform Capabilities
+
+Armadin's platform is described as the first of its kind: a unified, scalable, and ongoing red team capability that finds all exploitable risks continuously. Key capabilities include:
+
+- **Agentic attacker swarms**: AI agents that reason, plan, and adapt like real adversaries — not scripted scanners.
+- **Continuous coverage**: Nation-state-level offensive capability operating inside customer networks 24/7.
+- **Multi-modal attack surface coverage**: Operates across the entire external and internal attack surface.
+- **Validated kill chains**: Every finding comes with a proven, end-to-end attack path — not just a list of CVEs.
+- **Prioritized remediation**: Guidance ranked by business impact, helping teams close the most dangerous gaps first.
+- **Human-in-the-loop safety**: Expert human oversight and built-in controls ensure safety and privacy throughout.
+- **AI model flexibility**: Designed to assess using multiple leading frontier models, not locked to a single one.
+
+## Team
+
+- [Kevin Mandia — Founder & CEO](https://www.armadin.com/team-members/kevin-mandia): Globally recognized cybersecurity visionary with 30+ years on the front lines of digital defense. Founded Mandiant in 2004, served as CEO of FireEye, and led Mandiant through the landmark 2013 APT1 report and the 2020 SolarWinds supply chain attack disclosure. Mandiant was acquired by Google for $5.4 billion in 2022. Also a General Partner at Ballistic Ventures.
+- [Evan Peña — Co-founder & Chief Offensive Security Officer](https://www.armadin.com/team-members/evan-pena): Brings extensive red teaming leadership experience from Mandiant. Leads Armadin's offensive security strategy, merging human tradecraft with AI-driven engineering. Believes the most honest measure of security always comes from the attacker's perspective.
+- [Travis Lanham — Co-founder & CTO](https://www.armadin.com/team-members/travis-lanham): Former Google Cloud Security principal engineer. Leads Armadin's product and engineering efforts to redefine cybersecurity for the AI era.
+- [David Slater — Co-founder & Chief Architect](https://www.armadin.com/team-members/david-slater): Former Google SecOps engineer. Defines Armadin's AI-driven architecture and ensures a scalable, secure, and innovative technical foundation.
+- [Eric Gaither — CMO](https://www.armadin.com/team-members/eric-gaither): Responsible for Armadin's marketing strategy and brand platform.
+- [Chinmaya Manjunath — Engineering Lead](https://www.armadin.com/team-members/chinmaya-manjunath): Leads Armadin's engineering team, focused on innovation and quality.
+
+## Blog Posts & News
+
+- [Introducing Armadin With Kevin Mandia](https://www.armadin.com/blog-posts/introducing-armadin) (March 9, 2026): Kevin Mandia's founding vision for Armadin — why the AI shift is the most significant transition in cybersecurity history, and why Armadin is building an "intelligent fleet" (Armada) of agents and humans to find all attack paths, all the time.
+- [Armadin Secures Record-Breaking $189.9M in Seed and Series A Funding](https://www.armadin.com/blog-posts/armadin-secures-record-breaking-189-9m-in-seed-and-series-a-funding-to-combat-the-era-of-ai-driven-hyperattacks) (March 10, 2026): Official funding announcement. Details the investors, founding team, and Armadin's mission to close the "Hyperattack Gap."
+- [Is Your Cybersecurity Ready for the AI Age?](https://www.armadin.com/blog-posts/is-your-cybersecurity-ready-for-the-ai-age): Kevin Mandia's perspective on why the release of Claude Mythos (Anthropic) marks a pivotal inflection point for the cybersecurity industry. Argues that reactive, human-led defense is no longer sufficient and outlines five actions large organizations should take immediately, including launching AI-driven attacks on their own external presence.
+- [Passback Perfection: CVE-2026-28297 and CVE-2026-28298, Plus Credential Relaying for Full Domain Compromise](https://www.armadin.com/blog-posts/passback-perfection-cve-2026-28297-and-cve-2026-28298-plus-credential-relaying-for-full-domain-compromise): Technical vulnerability research from Armadin's offensive security team, detailing passback attack techniques, two CVEs, and how credential relaying can be chained for full domain compromise.
+- [Prepare for the AI-Enhanced Attacker: A CISO's Playbook](https://www.armadin.com/blog-posts/prepare-for-the-ai-enhanced-attacker): Practical guidance for CISOs on navigating the transition to AI-driven threats, including conducting comprehensive AI-driven external assessments and building toward autonomous defense.
+- [Making a Strategic Commitment to Canada](https://www.armadin.com/blog-posts/making-a-strategic-commitment-to-canada) (May 13, 2026): Armadin announces a strategic expansion into Canada.
+- [Armadin and CrowdStrike Partner to Defend Against AI Hyperattacks](https://www.armadin.com/blog-posts/armadin-and-crowdstrike-partner-to-defend-against-ai-hyperattacks): Partnership announcement between Armadin and CrowdStrike.
+- [Armadin and Palo Alto Networks Partner to Deliver Autonomous Attack Validation to Unit 42 Frontier AI Defense](https://www.armadin.com/blog-posts/armadin-and-palo-alto-networks-partner) (April 30, 2026): Partnership with Palo Alto Networks to bring autonomous attack validation to Unit 42.
+- [Connect with the Armadin Team at RSAC 2026](https://www.armadin.com/blog-posts/connect-with-armadin-at-rsac-2026): Event information for RSAC 2026, where Armadin made its public debut in the broader security community.
+
+## Key Concepts & Terminology
+
+- **Hyperattacks**: Armadin's term for AI-powered, machine-speed, multi-modal cyberattacks that far outpace traditional human-led defenses.
+- **The Ultimate Attacker**: Armadin's platform concept — an AI system trained to the standards of world-class red teams that continuously finds exploitable risk before real adversaries do.
+- **Agentic attacker swarm**: Armadin's fleet of AI agents that work in coordination to explore, adapt, and attack enterprise environments like a real adversary would.
+- **Exploitable risk**: Armadin distinguishes between theoretical vulnerabilities and proven, exploitable risks — ones with a validated end-to-end kill chain.
+- **Armadin Red**: Armadin's most advanced assessment offering — a comprehensive evaluation of organizational readiness for the AI threat era.
+- **The Hyperattack Gap**: The widening security gap between the speed of AI-driven offense and the pace of human-led defense.
+
+## Company Facts
+
+- **Founded**: 2025 (launched publicly March 2026)
+- **Headquarters**: San Francisco, CA
+- **Employees**: ~60
+- **Funding**: $189.9M (Seed + Series A) — largest combined Seed and Series A in cybersecurity history
+- **Lead Investor**: Accel
+- **Other Investors**: Google Ventures (GV), Kleiner Perkins, Menlo Ventures, 8VC, Ballistic Ventures, In-Q-Tel
+- **Website**: https://www.armadin.com
+- **LinkedIn**: https://www.linkedin.com/company/armadin
+- **Trust Center**: https://trust.armadin.com
+- **Press/Media contact**: [email protected]

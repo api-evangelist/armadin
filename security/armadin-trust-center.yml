@@ -1,0 +1,17 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+url: https://trust.armadin.com/
+platform: Vanta
+# Armadin operates a live Vanta-hosted Trust Center. The certification list is
+# rendered client-side (JS/SPA) and could not be verified server-side; named
+# certifications are intentionally left empty rather than fabricated. Update
+# `certifications` only from a verified read of the Trust Center's published badges.
+certifications: []
+evidence:
+  - source: https://trust.armadin.com/
+    kind: trust-center
+    detail: Vanta Trust Center (title "Armadin Trust Center"), HTTP 200
+  - source: https://www.armadin.com/llms.txt
+    kind: llms.txt
+    detail: llms.txt lists the Trust Center at https://trust.armadin.com/

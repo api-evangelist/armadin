@@ -1,0 +1,21 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.armadin.com/.well-known/
+host: https://www.armadin.com
+# All standard /.well-known/ discovery documents were probed and returned 404.
+# Absence is valid, recorded data. Armadin publishes a marketing/company site
+# with no public API surface, so no OAuth/OIDC/api-catalog/ai-plugin discovery exists.
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+notes:
+  - The company publishes an llms.txt (200) at https://www.armadin.com/llms.txt (captured in llms/).
+  - A Vanta-hosted Trust Center is live at https://trust.armadin.com/ (captured in security/).
